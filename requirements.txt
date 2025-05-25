@@ -1,0 +1,4 @@
+Flask
+xhtml2pdf
+openai
+python-dotenv
