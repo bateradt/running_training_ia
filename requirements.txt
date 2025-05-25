@@ -2,3 +2,4 @@ Flask
 xhtml2pdf
 openai
 python-dotenv
+gunicorn==21.2.0
