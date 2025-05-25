@@ -15,7 +15,7 @@ def post_prompt_ai_training(dados: dict) -> str:
     - Idade: {dados['age']}
     - Peso: {dados['weight']}
     - Frequência: {dados['weekFrequency']} vezes por semana
-    - Dias disponíveis: {', '.join(dados['availableDays'])}
+    - Dias disponíveis: {dados['availableDays']}
     - Distância atual: {dados['currentDistance']}
     - Distância alvo: {dados['targetDistance']}
     - Pace alvo: {dados['targetPace']}
